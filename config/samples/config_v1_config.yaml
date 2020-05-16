@@ -1,0 +1,7 @@
+apiVersion: config.devops.prasad.com/v1
+kind: Config
+metadata:
+  name: config-sample
+spec:
+  # Add fields here
+  foo: bar
